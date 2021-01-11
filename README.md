@@ -1,7 +1,7 @@
 # Soundfry Framework
 ## Uses
 Soundfry Framework is used to design the Soundfry profile follow button.
-## Icon Code
+## Icon Code:
 ```html
 <i class="soundfry"></i>
 ```
