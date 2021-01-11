@@ -7,30 +7,30 @@ Soundfry Framework is used to design the Soundfry profile follow button.
 ```
 ## CSS Class Codes:
 ### 1. Primary Button Class Code
-```css
-<div class="sfb sfb-primary"></div>
+```html
+<div class="sfb sfb-primary"><i class="soundfry"></i></div>
 ```
 ### 2. Outline Button Class Code
-```css
-<div class="sfb sfb-outline-primary"></div>
+```html
+<div class="sfb sfb-outline-primary"><i class="soundfry"></i></div>
 ```
 ### 3. Small Button Class Code
-```css
-<div class="sfb sfb-primary sfb-sm"></div>
+```html
+<div class="sfb sfb-primary sfb-sm"><i class="soundfry"></i></div>
 ```
 ### 4. Large Button Class Code
-```css
-<div class="sfb sfb-primary sfb-lg"></div>
+```html
+<div class="sfb sfb-primary sfb-lg"><i class="soundfry"></i></div>
 ```
 ### 5. Customizable Font Size Code
-```css
-<div class="sfb" style="font-size:50px"></div>
+```html
+<div class="sfb" style="font-size:50px"><i class="soundfry"></i></div>
 ```
 ### 6. Customizable Color Code
-```css
-<div class="sfb" style="color:black;background-color:white;border-color:black"></div>
+```html
+<div class="sfb" style="color:black;background-color:white;border-color:black"><i class="soundfry"></i></div>
 ```
-### 7. Customizable Font Size & Color Code
-```css
-<div class="sfb" style="color:black;background-color:white;border-color:black;font-size:50px"></div>
+### 7. Customizable Color & Font Size Code
+```html
+<div class="sfb" style="color:black;background-color:white;border-color:black;font-size:50px"><i class="soundfry"></i></div>
 ```
