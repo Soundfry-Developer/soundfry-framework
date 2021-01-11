@@ -22,7 +22,15 @@ Soundfry Framework is used to design the Soundfry profile follow button.
 ```css
 <div class="sfb sfb-primary sfb-lg"></div>
 ```
-### 5. Customizable Color Code
+### 5. Customizable Font Size Code
+```css
+<div class="sfb" style="font-size:50px"></div>
+```
+### 6. Customizable Color Code
 ```css
 <div class="sfb" style="color:black;background-color:white;border-color:black"></div>
+```
+### 7. Customizable Font Size With Color Code
+```css
+<div class="sfb" style="color:black;background-color:white;border-color:black;font-size:50px"></div>
 ```
