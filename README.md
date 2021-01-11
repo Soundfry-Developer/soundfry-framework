@@ -1,2 +1,3 @@
 # Soundfry Framework
-This is the Soundfry Framework
+## Uses
+Soundfry Framework is used to design the Soundfry profile follow button.
