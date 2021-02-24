@@ -1,9 +1,7 @@
 /*!
- * Bootstrap v4.4.1 (https://getbootstrap.com/)
- * Copyright 2011-2019 The Bootstrap Authors
- * Copyright 2011-2019 Twitter, Inc.
- * Modified 2020-2021 Soundfry Developer Team (https://soundfry.com)
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Soundfry Framework v1.1 (https://soundfry.com/)
+ * Developed 2020-2021 Soundfry Developer Team (https://soundfry.com)
+ * Licensed under MIT (https://github.com/Soundfry-Developer/soundfry-framework/blob/main/LICENSE)
  */@font-face {
   font-family:soundfry;src:url(soundfry.eot?aipzm3);src:url(soundfry.eot?aipzm3#iefix) format('embedded-opentype'),url(soundfry.ttf?aipzm3) format('truetype'),url(soundfry.woff?aipzm3) format('woff'),url(soundfry.svg?aipzm3#soundfry) format('svg');font-weight:400;font-style:normal;font-display:block;
 }
